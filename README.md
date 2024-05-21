@@ -14,7 +14,7 @@ Installer Scapy :
     git clone https://github.com/franckhtr/DosHCP.git
 
 # Modification à faire
-Ouvrez le script et modifiez la ligne 54 : sendp(packet, iface="Wi-Fi") en remplaçant "Wi-Fi" par le nom de l'interface réseau que vous souhaitez modifier. 
+Ouvrez le script et modifiez la ligne 54 : sendp(packet, iface="Wi-Fi") en remplaçant "Wi-Fi" par le nom de l'interface réseau que vous souhaitez utiliser. 
 
 # Execution
 
